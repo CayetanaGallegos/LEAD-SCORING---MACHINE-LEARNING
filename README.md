@@ -1,12 +1,12 @@
 # LEAD-SCORING---MACHINE-LEARNING
 
- Set Up
-Calidad de Datos
-EDA
-Transformación de Datos
-Modelización para No Supervisado
-Preselección de Variables
-Modelización para Clasificación
-Preparacion del Código de Producción
-Código de Re-Entrenamiento
-Código de Ejecución
+1. Set Up
+2. Calidad de Datos
+3. EDA
+4. Transformación de Datos
+5. Modelización para No Supervisado
+6. Preselección de Variables
+7. Modelización para Clasificación
+8. Preparacion del Código de Producción
+9. Código de Re-Entrenamiento
+10. Código de Ejecución
